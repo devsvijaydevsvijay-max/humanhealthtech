@@ -58,6 +58,9 @@ hr {
 hr:not([size]) {
   height: 1px
 }
+.text-dark {
+  color: #0843c2 !important
+}
 h1, .h1, h2, .h2, h3, .h3, h4, .h4, h5, .h5, h6, .h6 {
   margin-top: 0;
   margin-bottom: .5rem;
@@ -6259,7 +6262,7 @@ textarea.form-control-lg {
   color: #EEF9FF !important
 }
 .text-dark {
-  color: #091E3E !important
+  color: #0843c2 !important
 }
 .text-white {
   color: #fff !important
