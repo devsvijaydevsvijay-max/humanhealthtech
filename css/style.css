@@ -1,7 +1,7 @@
 /********** Template CSS **********/
 :root {
-    --primary: #06A3DA;
-    --secondary: #F57E57;
+    --primary: #0843c2;
+    --secondary: #ed172d;
     --light: #EEF9FF;
     --dark: #091E3E;
 }
@@ -200,7 +200,7 @@ h6,
 }
 
 .appointment-form {
-    background: rgba(6, 163, 218, .7);
+    background: rgba(255, 255, 255, .2);
 }
 
 .service-item img,
